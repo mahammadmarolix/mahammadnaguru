@@ -1,3 +1,10 @@
 name = "mahammad"
 for i in name:
     print(i)
+
+## using if condition
+a = 9
+if a%2 == 0:
+    print("even number")
+else:
+    print("odd number")
