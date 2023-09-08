@@ -8,3 +8,8 @@ if a%2 == 0:
     print("even number")
 else:
     print("odd number")
+
+## by using tuple 
+maha = ("car", "bus", "van")
+for i in maha:
+    print(i)
