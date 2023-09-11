@@ -33,3 +33,8 @@ print(type(name))
 num = 5
 for i in range(1, 11):
     print(num, 'X', i, '=', num*i)
+
+## printing 25th table 
+num = 25
+for i in range(1, 11):
+    print(num, 'X', i, '=', num*i)
